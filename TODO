@@ -1,0 +1,4 @@
+- Furos do devkitc com 0.8 mm é muito pequeno, fazer com 0.9 ou 1.0
+- Conectores JST de 2 ficaram muito proximos, não cabendo
+- Capactir de 1uF ficou por cima do devkitc
+- pads do transistor não ficaram isolados (ver no flatcam)
